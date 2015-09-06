@@ -23,7 +23,8 @@
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.3.0",
     "hubot-weather": "*",
-    "hubot-urban-dictionary": "*"
+    "hubot-urban-dictionary": "*",
+    "hubot-outofcontext": "*"
   },
   "engines": {
     "node": "0.10.x"
