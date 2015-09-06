@@ -18,5 +18,6 @@
   "hubot-privilege",
   "hubot-voting",
   "hubot-insulter",
-  "hubot-wolfram"
+  "hubot-wolfram",
+  "hubot-movie"
 ]
