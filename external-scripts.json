@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-business-cat",
-  "hubot-qr-generator"
+  "hubot-qr-generator",
+  "hubot-bitly"
 ]
