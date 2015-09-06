@@ -17,5 +17,6 @@
   "hubot-emoji",
   "hubot-privilege",
   "hubot-voting",
-  "hubot-insulter"
+  "hubot-insulter",
+  "hubot-wolfram"
 ]
