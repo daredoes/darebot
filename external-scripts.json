@@ -19,5 +19,6 @@
   "hubot-voting",
   "hubot-insulter",
   "hubot-wolfram",
-  "hubot-movie"
+  "hubot-movie",
+  "hubot-subreddit-linker"
 ]
