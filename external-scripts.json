@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-business-cat",
   "hubot-qr-generator",
-  "hubot-bitly"
+  "hubot-bitly",
+  "hubot-weather"
 ]
