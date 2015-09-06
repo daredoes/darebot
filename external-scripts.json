@@ -12,5 +12,7 @@
   "hubot-business-cat",
   "hubot-qr-generator",
   "hubot-bitly",
-  "hubot-weather"
+  "hubot-weather",
+  "hubot-bitcoin",
+  "hubot-emoji"
 ]
