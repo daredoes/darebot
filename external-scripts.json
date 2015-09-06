@@ -16,5 +16,6 @@
   "hubot-bitcoin",
   "hubot-emoji",
   "hubot-privilege",
-  "hubot-voting"
+  "hubot-voting",
+  "hubot-insulter"
 ]
