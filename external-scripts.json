@@ -14,5 +14,6 @@
   "hubot-bitly",
   "hubot-weather",
   "hubot-bitcoin",
-  "hubot-emoji"
+  "hubot-emoji",
+  "hubot-privilege"
 ]
