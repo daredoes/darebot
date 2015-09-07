@@ -25,7 +25,8 @@
     "hubot-weather": "*",
     "hubot-urban-dictionary": "*",
     "hubot-outofcontext": "*",
-    "hubot-currency": "latest"
+    "hubot-currency": "latest",
+    "hubot-cah": "latest"
   },
   "engines": {
     "node": "0.10.x"
